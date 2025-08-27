@@ -1,0 +1,10 @@
+(librepcb_symbol fdfcfbf6-d839-4ea7-b178-2fa9933cf26f
+ (name "USB Type C high-speed mux")
+ (description "")
+ (keywords "usb, c, mux")
+ (author "David")
+ (version "0.1")
+ (created 2025-08-19T20:37:52Z)
+ (deprecated false)
+ (generated_by "")
+)

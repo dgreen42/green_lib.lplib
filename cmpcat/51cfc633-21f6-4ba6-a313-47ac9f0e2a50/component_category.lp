@@ -1,0 +1,10 @@
+(librepcb_component_category 51cfc633-21f6-4ba6-a313-47ac9f0e2a50
+ (name "Sensors")
+ (description "Sensors")
+ (keywords "sensor")
+ (author "David")
+ (version "0.1")
+ (created 2025-08-18T17:29:20Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,11 @@
+(librepcb_library 533dbc1b-f674-47c8-9b34-bd34c29711b2
+ (name "green_lib")
+ (description "")
+ (keywords "")
+ (author "David")
+ (version "0.1")
+ (created 2025-08-18T14:51:44Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
