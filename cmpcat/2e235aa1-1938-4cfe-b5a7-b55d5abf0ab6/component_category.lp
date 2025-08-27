@@ -1,0 +1,10 @@
+(librepcb_component_category 2e235aa1-1938-4cfe-b5a7-b55d5abf0ab6
+ (name "Microcontrollers")
+ (description "microcontrollers")
+ (keywords "")
+ (author "David")
+ (version "0.1")
+ (created 2025-08-27T18:46:33Z)
+ (deprecated false)
+ (parent none)
+)
